@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Mern cookbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BethHaworth/project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BethHaworth/project/issues"
+  },
+  "homepage": "https://github.com/BethHaworth/project#readme",
+  "dependencies": {
+    "chalk": "3.0.0",
+    "express": "4.16.3"
+  }
+}
