@@ -18,6 +18,6 @@
   "homepage": "https://github.com/BethHaworth/project#readme",
   "dependencies": {
     "chalk": "3.0.0",
-    "express": "4.16.3"
+    "express": "4.17.3"
   }
 }
